@@ -15,4 +15,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse Projeto trata-se de um BOT para ser utilizado no discord da CPT.
 
-Feito com by Kaio Antonio
+by Kaio Antonio
